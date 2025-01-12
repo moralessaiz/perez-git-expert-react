@@ -1,4 +1,6 @@
-# React + Vite
+# Pérez Gif Expert App
+
+Este es mi repositorio del proyecto Pérez Gif Expert App - En React
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
